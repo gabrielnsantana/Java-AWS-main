@@ -1,5 +1,5 @@
 # Java AWS♨️☕
 
-Curso Gratuito de Java - Rocketseat
+Curso de Java - Rocketseat
 
 © 2024 - Gabriel N. Santana
